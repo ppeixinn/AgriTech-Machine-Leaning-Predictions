@@ -7,8 +7,8 @@ General Information
 
 ## Objectives  
 A leading agri-tech company, AgroTech Innovations, faces significant challenges in optimising crop yields and resource management due to inefficiencies in their controlled environment farming systems. Despite having advanced sensor technologies, the company seeks to enhance its operational efficiency and support future research and development initiatives.  
-We will make use of various machine learning models to address these challenges. Your goal is to create models to predict the temperature conditions within the farm's closed environment, ensuring optimal plant growth. Additionally, you will develop models to categorise the combined "Plant Type-Stage" based on sensor data, aiding in strategic planning and resource allocation.  
-By implementing these models, you will help AgroTech Innovations improve crop management, optimise resource usage, and increase yield predictability. These efforts will not only enhance current operations but also provide valuable insights for future agricultural innovations. 
+We will make use of various machine learning models to address these challenges. The goal is to create models to predict the temperature conditions within the farm's closed environment, ensuring optimal plant growth. We will also develop models to categorise the combined "Plant Type-Stage" based on sensor data, aiding in strategic planning and resource allocation.  
+By implementing these models, we hope to help AgroTech Innovations improve crop management, optimise resource usage, and increase yield predictability. These efforts will not only enhance current operations but also provide valuable insights for future agricultural innovations. 
 
 ### Author Information:
 
